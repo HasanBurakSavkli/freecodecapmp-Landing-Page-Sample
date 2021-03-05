@@ -1,1 +1,1 @@
-# freecodecapmp-Landing-Page-Sample
+# freecodecamp-Landing-Page-Sample
